@@ -4,7 +4,7 @@
             "id": 1,
             "uname": "Phùng Cẩm Tân",
             "password": "hashed_password_123",
-            "url_profile": "https://randomuser.me/api/portraits/men/9.jpg",
+            "url_profile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCtWaFUuW0syDCYUF5drFJL5Zlhg2XCNYefdGjSQtcR3LOq5cd9B5Rxkp1&s=10",
             "short_bio": "Lập trình viên đam mê công nghệ. Cực kỳ nghiêm túc với quy trình phát triển dự án, luôn đặt clean architecture và tính maintainability lên hàng đầu. Sẵn sàng giải quyết các bài toán logic khó."
         },
         {
@@ -16,9 +16,9 @@
         },
         {
             "id": 3,
-            "uname": "Trần Thị B",
+            "uname": "Trần Văn B",
             "password": "hashed_password_789",
-            "url_profile": "https://randomuser.me/api/portraits/women/44.jpg",
+            "url_profile": "https://randomuser.me/api/portraits/men/9.jpg",
             "short_bio": "Project Manager nhiệt huyết, chuyên lên kế hoạch và đảm bảo các dự án phần mềm luôn chạy đúng tiến độ và tối ưu nguồn lực."
         },
         {
@@ -32,7 +32,7 @@
             "id": 5,
             "uname": "Phạm Thị D",
             "password": "hashed_password_def",
-            "url_profile": "https://randomuser.me/api/portraits/women/68.jpg",
+            "url_profile": "https://randomuser.me/api/portraits/men/68.jpg",
             "short_bio": "Chuyên gia thiết kế UI/UX, người luôn tạo ra các trải nghiệm người dùng mượt mà và giao diện tối ưu."
         }
     ]
