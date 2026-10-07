@@ -1,0 +1,39 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "uname": "Phùng Cẩm Tân",
+            "password": "hashed_password_123",
+            "url_profile": "https://randomuser.me/api/portraits/men/9.jpg",
+            "short_bio": "Lập trình viên đam mê công nghệ. Cực kỳ nghiêm túc với quy trình phát triển dự án, luôn đặt clean architecture và tính maintainability lên hàng đầu. Sẵn sàng giải quyết các bài toán logic khó."
+        },
+        {
+            "id": 2,
+            "uname": "Nguyễn Văn A",
+            "password": "hashed_password_456",
+            "url_profile": "https://randomuser.me/api/portraits/men/32.jpg",
+            "short_bio": "Chuyên viên phân tích dữ liệu (Data Analyst) với 5 năm kinh nghiệm. Thích làm việc với các hệ thống dữ liệu lớn và báo cáo BI."
+        },
+        {
+            "id": 3,
+            "uname": "Trần Thị B",
+            "password": "hashed_password_789",
+            "url_profile": "https://randomuser.me/api/portraits/women/44.jpg",
+            "short_bio": "Project Manager nhiệt huyết, chuyên lên kế hoạch và đảm bảo các dự án phần mềm luôn chạy đúng tiến độ và tối ưu nguồn lực."
+        },
+        {
+            "id": 4,
+            "uname": "Lê Văn C",
+            "password": "hashed_password_abc",
+            "url_profile": "https://randomuser.me/api/portraits/men/46.jpg",
+            "short_bio": "Kỹ sư hệ thống chuyên về Cloud và DevOps. Đam mê tối ưu hóa hạ tầng và tự động hóa quy trình CI/CD."
+        },
+        {
+            "id": 5,
+            "uname": "Phạm Thị D",
+            "password": "hashed_password_def",
+            "url_profile": "https://randomuser.me/api/portraits/women/68.jpg",
+            "short_bio": "Chuyên gia thiết kế UI/UX, người luôn tạo ra các trải nghiệm người dùng mượt mà và giao diện tối ưu."
+        }
+    ]
+}
